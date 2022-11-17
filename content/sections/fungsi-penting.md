@@ -5,4 +5,4 @@ draft: false
 weight: 2
 ---
 
-Fungsi asas seperti Analytics dan conversion tag
+Fungsi asas seperti Analytics dan conversion tag.
